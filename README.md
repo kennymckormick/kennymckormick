@@ -1,4 +1,4 @@
-[![KennyMcKormick's github stats](https://github-readme-stats.vercel.app/api?username=kennymckormick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kennymckormick/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennymckormick&layout=compact)](https://github.com/kennymckormick/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kennymckormick&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymckormick&layout=compact" height="200">
 
 <!--
 **kennymckormick/kennymckormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
