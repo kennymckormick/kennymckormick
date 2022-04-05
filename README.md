@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=kennymckormick&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymckormick&theme=tokyonight&layout=compact&exclude_repo=Click-TCPIP-STACK,numerical-analysis" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=kennymckormick&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="140"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymckormick&theme=tokyonight&layout=compact&exclude_repo=Click-TCPIP-STACK,numerical-analysis" height="140">
 
 <!--
 **kennymckormick/kennymckormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
