@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=kennymckormick&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="160">
+<img src="https://github-readme-stats.vercel.app/api?username=kennymckormick&bg_color=10,444444,cccccc&title_color=ffd8e4&text_color=ffd8e4&layout=compact" height="160">
 
 <!--
 **kennymckormick/kennymckormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
